@@ -1,0 +1,9 @@
+/home/paulo/dev/switch/3 - Application/Switch.Application/bin/Debug/netstandard2.0/Switch.Application.deps.json
+/home/paulo/dev/switch/3 - Application/Switch.Application/bin/Debug/netstandard2.0/Switch.Application.dll
+/home/paulo/dev/switch/3 - Application/Switch.Application/bin/Debug/netstandard2.0/Switch.Application.pdb
+/home/paulo/dev/switch/3 - Application/Switch.Application/obj/Debug/netstandard2.0/Switch.Application.csproj.CoreCompileInputs.cache
+/home/paulo/dev/switch/3 - Application/Switch.Application/obj/Debug/netstandard2.0/Switch.Application.AssemblyInfoInputs.cache
+/home/paulo/dev/switch/3 - Application/Switch.Application/obj/Debug/netstandard2.0/Switch.Application.AssemblyInfo.cs
+/home/paulo/dev/switch/3 - Application/Switch.Application/obj/Debug/netstandard2.0/Switch.Application.dll
+/home/paulo/dev/switch/3 - Application/Switch.Application/obj/Debug/netstandard2.0/Switch.Application.pdb
+/home/paulo/dev/switch/3 - Application/Switch.Application/obj/Debug/netstandard2.0/Switch.Application.csprojAssemblyReference.cache

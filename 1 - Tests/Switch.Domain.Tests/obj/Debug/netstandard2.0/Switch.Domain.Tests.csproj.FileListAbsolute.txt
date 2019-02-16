@@ -1,0 +1,9 @@
+/home/paulo/dev/switch/1 - Tests/Switch.Domain.Tests/bin/Debug/netstandard2.0/Switch.Domain.Tests.deps.json
+/home/paulo/dev/switch/1 - Tests/Switch.Domain.Tests/bin/Debug/netstandard2.0/Switch.Domain.Tests.dll
+/home/paulo/dev/switch/1 - Tests/Switch.Domain.Tests/bin/Debug/netstandard2.0/Switch.Domain.Tests.pdb
+/home/paulo/dev/switch/1 - Tests/Switch.Domain.Tests/obj/Debug/netstandard2.0/Switch.Domain.Tests.csprojAssemblyReference.cache
+/home/paulo/dev/switch/1 - Tests/Switch.Domain.Tests/obj/Debug/netstandard2.0/Switch.Domain.Tests.csproj.CoreCompileInputs.cache
+/home/paulo/dev/switch/1 - Tests/Switch.Domain.Tests/obj/Debug/netstandard2.0/Switch.Domain.Tests.AssemblyInfoInputs.cache
+/home/paulo/dev/switch/1 - Tests/Switch.Domain.Tests/obj/Debug/netstandard2.0/Switch.Domain.Tests.AssemblyInfo.cs
+/home/paulo/dev/switch/1 - Tests/Switch.Domain.Tests/obj/Debug/netstandard2.0/Switch.Domain.Tests.dll
+/home/paulo/dev/switch/1 - Tests/Switch.Domain.Tests/obj/Debug/netstandard2.0/Switch.Domain.Tests.pdb

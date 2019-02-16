@@ -1,0 +1,12 @@
+/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/bin/Debug/netstandard2.0/Switch.Infra.Data.deps.json
+/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/bin/Debug/netstandard2.0/Switch.Infra.Data.dll
+/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/bin/Debug/netstandard2.0/Switch.Infra.Data.pdb
+/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/bin/Debug/netstandard2.0/Switch.Domain.dll
+/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/bin/Debug/netstandard2.0/Switch.Domain.pdb
+/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/obj/Debug/netstandard2.0/Switch.Infra.Data.csprojAssemblyReference.cache
+/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/obj/Debug/netstandard2.0/Switch.Infra.Data.csproj.CoreCompileInputs.cache
+/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/obj/Debug/netstandard2.0/Switch.Infra.Data.AssemblyInfoInputs.cache
+/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/obj/Debug/netstandard2.0/Switch.Infra.Data.AssemblyInfo.cs
+/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/obj/Debug/netstandard2.0/Switch.Infra.Data.csproj.CopyComplete
+/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/obj/Debug/netstandard2.0/Switch.Infra.Data.dll
+/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/obj/Debug/netstandard2.0/Switch.Infra.Data.pdb

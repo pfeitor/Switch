@@ -1,0 +1,9 @@
+/home/paulo/dev/switch/0 - Domain/Switch.Domain/bin/Debug/netstandard2.0/Switch.Domain.deps.json
+/home/paulo/dev/switch/0 - Domain/Switch.Domain/bin/Debug/netstandard2.0/Switch.Domain.dll
+/home/paulo/dev/switch/0 - Domain/Switch.Domain/bin/Debug/netstandard2.0/Switch.Domain.pdb
+/home/paulo/dev/switch/0 - Domain/Switch.Domain/obj/Debug/netstandard2.0/Switch.Domain.csprojAssemblyReference.cache
+/home/paulo/dev/switch/0 - Domain/Switch.Domain/obj/Debug/netstandard2.0/Switch.Domain.csproj.CoreCompileInputs.cache
+/home/paulo/dev/switch/0 - Domain/Switch.Domain/obj/Debug/netstandard2.0/Switch.Domain.AssemblyInfoInputs.cache
+/home/paulo/dev/switch/0 - Domain/Switch.Domain/obj/Debug/netstandard2.0/Switch.Domain.AssemblyInfo.cs
+/home/paulo/dev/switch/0 - Domain/Switch.Domain/obj/Debug/netstandard2.0/Switch.Domain.dll
+/home/paulo/dev/switch/0 - Domain/Switch.Domain/obj/Debug/netstandard2.0/Switch.Domain.pdb
