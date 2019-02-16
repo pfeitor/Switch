@@ -16,6 +16,7 @@ namespace Switch.Infra.Data.Context
         {
             modelBuilder.ApplyConfiguration(new UsuarioConfiguration());
             modelBuilder.ApplyConfiguration(new PostagensConfiguration());
+            modelBuilder.ApplyConfiguration(new StatusrelacionamentoConfiguration());
             base.OnModelCreating(modelBuilder);
         }
 
