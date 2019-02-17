@@ -2,15 +2,17 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Switch.Infra.Data.Context;
 
 namespace Switch.Infra.Data.Migrations
 {
     [DbContext(typeof(SwitchContext))]
-    partial class SwitchContextModelSnapshot : ModelSnapshot
+    [Migration("20190217020349_AddUsuarioGrupo")]
+    partial class AddUsuarioGrupo
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -36,7 +38,7 @@ namespace Switch.Infra.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Grupos");
+                    b.ToTable("Grupo");
                 });
 
             modelBuilder.Entity("Switch.Domain.Entities.Identificacao", b =>
@@ -55,7 +57,7 @@ namespace Switch.Infra.Data.Migrations
                     b.HasIndex("UsuarioId")
                         .IsUnique();
 
-                    b.ToTable("Identificacoes");
+                    b.ToTable("Identificacao");
                 });
 
             modelBuilder.Entity("Switch.Domain.Entities.Postagem", b =>
@@ -79,7 +81,7 @@ namespace Switch.Infra.Data.Migrations
 
                     b.HasIndex("UsuarioId");
 
-                    b.ToTable("Postagens");
+                    b.ToTable("Postagem");
                 });
 
             modelBuilder.Entity("Switch.Domain.Entities.Statusrelacionamento", b =>
@@ -92,7 +94,7 @@ namespace Switch.Infra.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("StatusRelacionamento");
+                    b.ToTable("Statusrelacionamento");
                 });
 
             modelBuilder.Entity("Switch.Domain.Entities.Usuario", b =>
@@ -143,7 +145,7 @@ namespace Switch.Infra.Data.Migrations
 
                     b.HasIndex("GrupoId");
 
-                    b.ToTable("UsuarioGrupos");
+                    b.ToTable("UsuarioGrupo");
                 });
 
             modelBuilder.Entity("Switch.Domain.Entities.Identificacao", b =>

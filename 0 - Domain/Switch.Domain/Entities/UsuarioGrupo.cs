@@ -2,11 +2,11 @@ using System;
 
 namespace Switch.Domain.Entities
 {
-    public class Postagem
+    public class UsuarioGrupo
     {
-        public int Id { get; set; }
-        public string Texto { get; set; }
-        public DateTime DataPublicao { get; set; }
+        public DateTime DataCriacao { get; set; }
+        public bool EhAdministrador { get; set; }
+
         public int UsuarioId { get; set; }
         public virtual Usuario Usuario { get; set; }
 
