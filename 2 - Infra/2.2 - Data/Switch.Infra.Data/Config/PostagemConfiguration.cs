@@ -4,9 +4,9 @@ using Switch.Domain.Entities;
 
 namespace Switch.Infra.Data.Config
 {
-    public class PostagensConfiguration : IEntityTypeConfiguration<Postagens>
+    public class PostagemConfiguration : IEntityTypeConfiguration<Postagem>
     {
-        public void Configure(EntityTypeBuilder<Postagens> builder)
+        public void Configure(EntityTypeBuilder<Postagem> builder)
         {
             builder.HasKey(p => p.Id);
             builder.Property(p => p.Texto).IsRequired();
