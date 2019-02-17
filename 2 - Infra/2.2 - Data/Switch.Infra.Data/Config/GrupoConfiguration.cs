@@ -8,9 +8,19 @@ namespace Switch.Infra.Data.Config
         public void Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Grupo> builder)
         {
             builder.HasKey(g => g.Id);
-            builder.Property(g => g.Nome).IsRequired().HasMaxLength(100);
-            builder.Property(g => g.Descricao).HasMaxLength(200).IsRequired();
-            builder.Property(g => g.UrlFoto).HasMaxLength(400).IsRequired();
+
+            builder.Property(g => g.Nome)
+                    .IsRequired()
+                    .HasMaxLength(100);
+
+            builder.Property(g => g.Descricao)
+                    .IsRequired()
+                    .HasMaxLength(100);
+                    
+            builder.Property(g => g.UrlFoto)
+                    .IsRequired()
+                    .HasMaxLength(1000);
+
             builder.HasMany(g => g.Postagens).WithOne(p => p.Grupo);
 
         }
