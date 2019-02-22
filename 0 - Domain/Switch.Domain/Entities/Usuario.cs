@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using Switch.Domains.Enums;
+using Switch.Domain.Enums;
 
 namespace Switch.Domain.Entities
 {

@@ -1,0 +1,16 @@
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/bin/Debug/netcoreapp2.1/SwitchAPP.deps.json
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/bin/Debug/netcoreapp2.1/SwitchAPP.runtimeconfig.json
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/bin/Debug/netcoreapp2.1/SwitchAPP.runtimeconfig.dev.json
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/bin/Debug/netcoreapp2.1/SwitchAPP.dll
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/bin/Debug/netcoreapp2.1/SwitchAPP.pdb
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/bin/Debug/netcoreapp2.1/Switch.Domain.dll
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/bin/Debug/netcoreapp2.1/Switch.Infra.Data.dll
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/bin/Debug/netcoreapp2.1/Switch.Infra.Data.pdb
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/bin/Debug/netcoreapp2.1/Switch.Domain.pdb
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/obj/Debug/netcoreapp2.1/SwitchAPP.csprojAssemblyReference.cache
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/obj/Debug/netcoreapp2.1/SwitchAPP.csproj.CoreCompileInputs.cache
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/obj/Debug/netcoreapp2.1/SwitchAPP.AssemblyInfoInputs.cache
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/obj/Debug/netcoreapp2.1/SwitchAPP.AssemblyInfo.cs
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/obj/Debug/netcoreapp2.1/SwitchAPP.csproj.CopyComplete
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/obj/Debug/netcoreapp2.1/SwitchAPP.dll
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/obj/Debug/netcoreapp2.1/SwitchAPP.pdb

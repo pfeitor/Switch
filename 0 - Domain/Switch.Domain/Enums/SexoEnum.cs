@@ -1,4 +1,4 @@
-namespace Switch.Domains.Enums
+namespace Switch.Domain.Enums
 {
     public enum SexoEnum
     {
