@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/paulo/dev/switch/2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/Switch.Infra.CrossCutting.Logging.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -9,6 +9,7 @@
       "SwitchAPP/1.0.0": {
         "dependencies": {
           "Switch.Domain": "1.0.0",
+          "Switch.Infra.CrossCutting.Logging": "1.0.0",
           "Switch.Infra.Data": "1.0.0"
         },
         "runtime": {
@@ -644,6 +645,14 @@
           "Switch.Domain.dll": {}
         }
       },
+      "Switch.Infra.CrossCutting.Logging/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging": "2.1.1"
+        },
+        "runtime": {
+          "Switch.Infra.CrossCutting.Logging.dll": {}
+        }
+      },
       "Switch.Infra.Data/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Proxies": "2.1.4",
@@ -1139,6 +1148,11 @@
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
     "Switch.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Switch.Infra.CrossCutting.Logging/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

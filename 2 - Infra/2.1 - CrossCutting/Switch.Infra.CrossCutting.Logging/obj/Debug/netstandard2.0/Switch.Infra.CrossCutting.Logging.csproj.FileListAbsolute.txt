@@ -1,0 +1,9 @@
+/home/paulo/dev/switch/2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/bin/Debug/netstandard2.0/Switch.Infra.CrossCutting.Logging.deps.json
+/home/paulo/dev/switch/2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/bin/Debug/netstandard2.0/Switch.Infra.CrossCutting.Logging.dll
+/home/paulo/dev/switch/2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/bin/Debug/netstandard2.0/Switch.Infra.CrossCutting.Logging.pdb
+/home/paulo/dev/switch/2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/obj/Debug/netstandard2.0/Switch.Infra.CrossCutting.Logging.csprojAssemblyReference.cache
+/home/paulo/dev/switch/2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/obj/Debug/netstandard2.0/Switch.Infra.CrossCutting.Logging.csproj.CoreCompileInputs.cache
+/home/paulo/dev/switch/2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/obj/Debug/netstandard2.0/Switch.Infra.CrossCutting.Logging.AssemblyInfoInputs.cache
+/home/paulo/dev/switch/2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/obj/Debug/netstandard2.0/Switch.Infra.CrossCutting.Logging.AssemblyInfo.cs
+/home/paulo/dev/switch/2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/obj/Debug/netstandard2.0/Switch.Infra.CrossCutting.Logging.dll
+/home/paulo/dev/switch/2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/obj/Debug/netstandard2.0/Switch.Infra.CrossCutting.Logging.pdb

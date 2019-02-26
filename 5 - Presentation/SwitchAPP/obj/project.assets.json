@@ -1165,6 +1165,19 @@
           "bin/placeholder/Switch.Domain.dll": {}
         }
       },
+      "Switch.Infra.CrossCutting.Logging/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.Extensions.Logging": "2.1.1"
+        },
+        "compile": {
+          "bin/placeholder/Switch.Infra.CrossCutting.Logging.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Switch.Infra.CrossCutting.Logging.dll": {}
+        }
+      },
       "Switch.Infra.Data/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -4486,6 +4499,11 @@
       "path": "../../0 - Domain/Switch.Domain/Switch.Domain.csproj",
       "msbuildProject": "../../0 - Domain/Switch.Domain/Switch.Domain.csproj"
     },
+    "Switch.Infra.CrossCutting.Logging/1.0.0": {
+      "type": "project",
+      "path": "../../2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/Switch.Infra.CrossCutting.Logging.csproj",
+      "msbuildProject": "../../2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/Switch.Infra.CrossCutting.Logging.csproj"
+    },
     "Switch.Infra.Data/1.0.0": {
       "type": "project",
       "path": "../../2 - Infra/2.2 - Data/Switch.Infra.Data/Switch.Infra.Data.csproj",
@@ -4496,6 +4514,7 @@
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.NETCore.App >= 2.1.0",
       "Switch.Domain >= 1.0.0",
+      "Switch.Infra.CrossCutting.Logging >= 1.0.0",
       "Switch.Infra.Data >= 1.0.0"
     ]
   },
@@ -4529,6 +4548,9 @@
           "projectReferences": {
             "/home/paulo/dev/switch/0 - Domain/Switch.Domain/Switch.Domain.csproj": {
               "projectPath": "/home/paulo/dev/switch/0 - Domain/Switch.Domain/Switch.Domain.csproj"
+            },
+            "/home/paulo/dev/switch/2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/Switch.Infra.CrossCutting.Logging.csproj": {
+              "projectPath": "/home/paulo/dev/switch/2 - Infra/2.1 - CrossCutting/Switch.Infra.CrossCutting.Logging/Switch.Infra.CrossCutting.Logging.csproj"
             },
             "/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/Switch.Infra.Data.csproj": {
               "projectPath": "/home/paulo/dev/switch/2 - Infra/2.2 - Data/Switch.Infra.Data/Switch.Infra.Data.csproj"

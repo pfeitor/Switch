@@ -14,3 +14,5 @@
 /home/paulo/dev/switch/5 - Presentation/SwitchAPP/obj/Debug/netcoreapp2.1/SwitchAPP.csproj.CopyComplete
 /home/paulo/dev/switch/5 - Presentation/SwitchAPP/obj/Debug/netcoreapp2.1/SwitchAPP.dll
 /home/paulo/dev/switch/5 - Presentation/SwitchAPP/obj/Debug/netcoreapp2.1/SwitchAPP.pdb
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/bin/Debug/netcoreapp2.1/Switch.Infra.CrossCutting.Logging.dll
+/home/paulo/dev/switch/5 - Presentation/SwitchAPP/bin/Debug/netcoreapp2.1/Switch.Infra.CrossCutting.Logging.pdb
